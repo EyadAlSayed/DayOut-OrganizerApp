@@ -1,5 +1,5 @@
 
-# DayOut-OrganizerApp :earth_asia: :world_map: 
+# DayOut OrganizerApp :earth_asia: :world_map: 
 ### A trip organizing app for organizer 
 
 This application is used by tour operators
